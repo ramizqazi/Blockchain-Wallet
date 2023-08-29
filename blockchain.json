@@ -2,5 +2,11 @@
   {
     "hash": "0",
     "previousHash": null
+  },
+  {
+    "hash": "009b0ffdf8024c9fad6291d8b00915d23965a6ed55ba8ed680549076152705fb",
+    "nonce": 39,
+    "previousHash": "0",
+    "transactions": []
   }
 ]
