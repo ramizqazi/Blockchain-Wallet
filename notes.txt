@@ -1,0 +1,8 @@
+NOTES
+
+Understanting How Concsensus Algorithm Works
+____________________________________________
+
+
+At the time of writing this, the hash for a block on a popular blockchain needs to start with 19 zeros, and takes trillions of guesses to find a nonce that will produce a correct hash. So the race is started between miners the find a nonce (Number) that they can pass to the sha256 algorithm that can generate a hash the has 19 zeros at its start. So all the miners try to find that sha256 hash that starts with 19 zeros using there computational power (GPUS).
+This is how the proof of work consensus method for adding blocks to a blockchain works. If you have a nonce that will produce the hash needed, it proves that you have spent computing power needed to find it. Because proof of work takes a lot of resources to find the nonce, the person that finds it is rewarded.
